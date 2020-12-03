@@ -1,0 +1,2 @@
+see also: git@github.com:nonlinear-chaos-order-etc-etal/haskell-notes-binary-public-garbage-area.git
+see also: git@github.com:nonlinear-chaos-order-etc-etal/haskell-my-playground.git
